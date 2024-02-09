@@ -1,4 +1,11 @@
+Pre requisites: 
 pip install ultralytics
 pip install opencv-python 
 pip install matplotlib
 python3 -m pip install --upgrade Pillow
+
+Working steps:
+1. Download training and validation folders containing images and labels. 
+2. Change the file path in training.py file. 
+3. Run the training for some epochs.
+4. Test the trained model on random images using test.py
