@@ -1,0 +1,4 @@
+pip install ultralytics
+pip install opencv-python 
+pip install matplotlib
+python3 -m pip install --upgrade Pillow
